@@ -1,0 +1,7 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Parts Finder｜零件搜尋</title><link rel="stylesheet" href="/style.css"></head><body>
+<header><div class="brand">🔎 Parts Finder</div><nav><button data-page="search" class="active">搜尋零件</button><button data-page="favorites">收藏店家</button><button data-page="inquiries">詢問紀錄</button></nav></header>
+<main>
+<section id="page-search" class="page active"><div class="hero"><p class="eyebrow">LOCAL PARTS SEARCH</p><h1>你需要什麼零件？</h1><p>輸入型號、名稱或規格，找出目前資料庫裡可能有相關零件的店家。</p><div class="searchbar"><input id="query" placeholder="例如：BC547、1k 電阻、麵包板"><select id="city"><option value="">全部地區</option><option>台中</option><option>台北</option><option>高雄</option></select><button id="searchBtn">搜尋</button></div><div class="notice">⚠️ 「未知」代表尚未確認店內現貨，不會假裝成即時庫存。</div></div><div class="toolbar"><span id="resultCount">準備搜尋</span><select id="sort"><option value="relevance">相關度</option><option value="price">價格低到高</option><option value="name">名稱</option></select></div><div id="results" class="grid"></div></section>
+<section id="page-favorites" class="page"><div class="sectionHead"><h2>收藏店家</h2><p>把常去的材料行存起來。</p></div><div id="favorites" class="grid"></div></section>
+<section id="page-inquiries" class="page"><div class="sectionHead"><h2>詢問紀錄</h2><p>這裡先記錄你想詢問的零件；電話功能目前尚未接入。</p></div><div id="inquiries" class="list"></div></section>
+</main><div id="toast"></div><script src="/app.js"></script></body></html>
