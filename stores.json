@@ -1,0 +1,6 @@
+[
+  {"id":"s1","name":"台中電子材料行","city":"台中","district":"中區","address":"台中市中區電子街","phone":"","website":"","lat":24.1439,"lng":120.6839},
+  {"id":"s2","name":"台北電子材料行","city":"台北","district":"中正區","address":"台北市中正區","phone":"","website":"","lat":25.0420,"lng":121.5160},
+  {"id":"s3","name":"高雄電子材料行","city":"高雄","district":"三民區","address":"高雄市三民區","phone":"","website":"","lat":22.6478,"lng":120.3044},
+  {"id":"s4","name":"DIY 零件工作室","city":"台中","district":"西區","address":"台中市西區","phone":"","website":"","lat":24.1477,"lng":120.6736}
+]

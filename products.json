@@ -1,0 +1,10 @@
+[
+  {"id":"p1","storeId":"s1","name":"BC547 NPN 電晶體","partNumber":"BC547","category":"電晶體","spec":"NPN, TO-92","price":3,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p2","storeId":"s1","name":"1kΩ 電阻","partNumber":"R-1K","category":"電阻","spec":"1/4W, ±5%","price":1,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p3","storeId":"s1","name":"LED 5mm 紅色","partNumber":"LED-5R","category":"LED","spec":"5mm, red","price":2,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p4","storeId":"s2","name":"BC547 NPN 電晶體","partNumber":"BC547","category":"電晶體","spec":"NPN, TO-92","price":4,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p5","storeId":"s2","name":"10kΩ 電阻","partNumber":"R-10K","category":"電阻","spec":"1/4W, ±5%","price":1,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p6","storeId":"s3","name":"BC547 NPN 電晶體","partNumber":"BC547","category":"電晶體","spec":"NPN, TO-92","price":3,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p7","storeId":"s4","name":"Arduino 相容麵包板","partNumber":"BB-830","category":"DIY","spec":"830 points","price":45,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""},
+  {"id":"p8","storeId":"s4","name":"跳線組","partNumber":"JUMPER-M","category":"DIY","spec":"公對公/公對母/母對母","price":35,"availability":"unknown","lastChecked":"2026-09-29T08:00:00+08:00","sourceUrl":""}
+]
